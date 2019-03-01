@@ -13,8 +13,6 @@ The domain is paid for a year. If you want to renew it, I will transfer it over 
 
 Also, I setup this super easy to maintain blog using a static site generator called Hugo. I'd love to spend an hour and show you how to use it.
 
-I, of course, chose the Pink theme for you! ;)
-
 Love,
 
 Micah
